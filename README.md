@@ -92,7 +92,7 @@
 
 * Windows 경우
 
-    1. Putty & Puttygen 설치 ([https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.72-installer.msi "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.72-installer.msi"))
+    1. Putty & Puttygen 설치 (["https://www.putty.org/"])
 
     2. Puttygen 실행 &rightarrow; **[Load]** &rightarrow; 위에서 다운받은 awslab.pem 선택 &rightarrow; **[Save private key]** &rightarrow; awslab 이름으로 저장
 
