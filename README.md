@@ -92,7 +92,7 @@
 
 * Windows 경우
 
-    1. Putty & Puttygen 설치 ([https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.72-installer.msi](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.72-installer.msi "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.72-installer.msi"))
+    1. Putty & Puttygen 설치 ([https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.72-installer.msi "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.72-installer.msi"))
 
     2. Puttygen 실행 &rightarrow; **[Load]** &rightarrow; 위에서 다운받은 awslab.pem 선택 &rightarrow; **[Save private key]** &rightarrow; awslab 이름으로 저장
 
@@ -123,7 +123,7 @@
 1. Clone a git repository
 
     ```bash
-    git clone https://github.com/fitcloud/aws101.git && cd aws101
+    git clone https://github.com/dawon17/aws101.git && cd aws101
     ```
 
 2. Python Package 설치
@@ -153,7 +153,6 @@
 **Templates** = Dev/Test,\
 **DB instance identifier**  = awslab,\
 **Master username** = admin,\
-**Auto generate a password** = :white_check_mark:,\
 **DB instance size** = Burstable classes - db.t2.micro,\
 **Storasge type** = General Purpose (SSD),\
 **Allocated storage** = 20,\
